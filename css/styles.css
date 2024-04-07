@@ -235,11 +235,12 @@ img {
     height: 112px;
     background: #f4f4fd;
     margin-bottom: 8px;
+    justify-content: center;
+    padding-top: 24px;
 }
 
 .features-icon {
     display: flex;
-
 }
 
 .features-list {
@@ -317,7 +318,8 @@ img {
 
 .manager {
     text-align: center;
-    padding: 32px 0;
+    padding-top: 32px;
+    padding-bottom: 8px;
 }
 
 .specialist {
@@ -438,7 +440,7 @@ img {
 }
 
 .container {
-   width: 1158px;
+    width: 1158px;
 }
 
 .footer-container {
@@ -481,7 +483,6 @@ img {
 
 .footer-soc-media {
     margin-left: 120px;
-
 }
 
 .footer-soc-title {
