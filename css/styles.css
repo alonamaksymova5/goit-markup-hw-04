@@ -227,6 +227,21 @@ img {
 .section-one {
 }
 
+.features-list-icon {
+    display: flex;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background: #f4f4fd;
+    margin-bottom: 8px;
+}
+
+.features-icon {
+    display: flex;
+
+}
+
 .features-list {
     display: flex;
     gap: 24px;
@@ -398,6 +413,14 @@ img {
     display: flex;
 }
 
+.container {
+   width: 1158px;
+}
+
+.footer-container {
+    display: flex;
+}
+
 .conteiner-logo {
 
 }
@@ -433,14 +456,17 @@ img {
 }
 
 .footer-soc-media {
-    display: flex;
+    margin-left: 120px;
+
 }
+
 .footer-soc-title {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
+    margin-bottom: 16px;
 }
 
 .footer-soc-list {
