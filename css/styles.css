@@ -436,10 +436,13 @@ img {
 
 /* Footer */
 
-.footer-container {
-    display: flex;
+footer {
     background-color: #2e2f42;
     padding: 100px 0;
+}
+
+.footer-container {
+    display: flex;
     align-items: baseline;
     max-width: 1440px;
 }
